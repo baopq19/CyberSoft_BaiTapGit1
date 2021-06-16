@@ -19,3 +19,8 @@ const functionCheckTask = function() {
 const functionTestComplete = function() {
     console.log('testComplete');
 }();
+
+const functionDoneTask = function() {
+    console.log('doneTask');
+}();
+
